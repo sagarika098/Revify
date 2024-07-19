@@ -1,0 +1,12 @@
+{
+    "complerOptions": {
+        "module": "CommonJS",
+        "moduleResolution": "node",
+        "strict": true,
+        "outDir": "./built",
+        "experinmentalDecoraors": true,
+        "emitDecoratorMetadata": true,
+        "esModuleInterop": true
+    },
+    "include": ["src/**/*"],
+}
